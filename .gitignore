@@ -3,3 +3,10 @@
 *.jl.cov
 *.jl.mem
 Manifest.toml
+
+# Ignore vscode settings folder
+.vscode/
+
+# Ignore this gitingore file
+.gitignore
+
